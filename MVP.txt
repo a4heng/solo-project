@@ -1,0 +1,19 @@
+Structure
+
+*src
+---- actions
+|--|
+|--|--api.js(handles all http request);
+|--|--msgBoard.js | Redux actions and action creators
+|--|--store.js 
+****
+----* components
+|--|
+|--|--msgForm.js
+|--|--messageContainer.js
+|--|--useForm.js
+****
+----* reducers
+|--|
+|--|--postMessage.js
+|--|--index.js
